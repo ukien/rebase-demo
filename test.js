@@ -1,3 +1,3 @@
 function a() {
-    console.log(test1)
+    console.log(test2 -feature)
 }
